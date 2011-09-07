@@ -1,0 +1,11 @@
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\bin\ParseLisa.dll
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\bin\ParseLisa.pdb
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\bin\ParseLisa.xml
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\ResolveAssemblyReference.cache
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\ParseLisa.Resources.resources
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\GenerateResource-ResGen.write.1.tlog
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\ParseLisa.dll
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\ParseLisa.xml
+d:\users\seb\documents\visual studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\ParseLisa.pdb
+D:\Users\seb\Documents\Visual Studio 2010\Projects\ParseLisa\ParseLisa\obj\Debug\GenerateResource.read.1.tlog

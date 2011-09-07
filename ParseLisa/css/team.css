@@ -1,0 +1,80 @@
+﻿body
+{
+       font-family: Verdana;
+    background-color: #ebedf2;
+}
+A {
+    color: #696969;
+    text-decoration: none;
+}
+A:hover 
+{
+    text-decoration: underlined;
+    color: #696969;
+}
+table#team_uitslagen
+{
+}
+TD, LABEL
+{
+    font-family: Verdana;
+    font-size: 10px;
+}
+TABLE.trainingsdag, TABLE.team_players, TABLE.team_poule, TABLE.team_uitslagen, TABLE.teams_list, TABLE.wedstrijdschema, TABLE.team_ondersteuning
+{
+    width: 100%;
+    margin-bottom: 10px;
+}
+TD.td_tijd
+{
+    width: 100px;
+}
+TD.td_team
+{
+    width: 50px;
+}
+TD.td_trainer
+{
+    width: 150px;
+}
+TD.td_veld
+{
+    width: 50px;
+}
+TD.td.deel
+{
+    width: 50px;
+}
+.header
+{
+    background-color: #03067B;
+    color: #ffffff;
+}
+.bold 
+{
+    font-weight: bold;
+}
+.green 
+{
+    color: #008000;
+}
+.red 
+{
+    color: #FA0000;
+}
+p 
+{
+   
+    font-size: 10px;
+}
+SELECT, INPUT {
+    font-family: Verdana;
+    font-size: 10px;
+}
+#ddTeamList
+{
+    width: 170px;}
+tr.game_row
+{
+    background-color: #fff;
+}

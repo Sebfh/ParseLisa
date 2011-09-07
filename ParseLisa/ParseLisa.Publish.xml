@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Users\seb\Documents\Visual Studio 2010\Publish\MhcParseLisa" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="ParseLisa" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="wedstrijdschema.aspx" publishTime="06/22/2011 12:25:42" />
+    <file relUrl="trainingsschema.aspx" publishTime="06/08/2011 13:57:05" />
+    <file relUrl="Web.config" publishTime="06/08/2011 14:40:58" />
+    <file relUrl="bin/ParseLisa.dll" publishTime="08/24/2011 16:12:04" />
+    <file relUrl="Global.asax" publishTime="05/19/2011 14:25:40" />
+    <file relUrl="team.aspx" publishTime="07/05/2011 10:49:20" />
+    <file relUrl="bin/ParseLisa.pdb" publishTime="08/24/2011 16:12:04" />
+    <file relUrl="css/team.css" publishTime="06/22/2011 13:02:51" />
+    <file relUrl="bin/ParseLisa.xml" publishTime="08/24/2011 16:12:04" />
+    <file relUrl="team_list.aspx" publishTime="06/22/2011 11:16:19" />
+  </publishProfile>
+</publishData>
